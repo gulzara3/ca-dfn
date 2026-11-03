@@ -1,0 +1,22 @@
+# Data & checkpoints
+data/
+checkpoints/
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Keep results/ figures but ignore scratch
+results/*.tmp

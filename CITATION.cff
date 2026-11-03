@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "CA-DFN: Confidence-Aware Dynamic Fusion of CNNs and Transformers"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Ahmad
+    given-names: Izhar
+  - family-names: Rasheed
+    given-names: Muhammad
+  - family-names: Alam
+    given-names: Gulzar
+    orcid: "https://orcid.org/0000-0002-8169-0386"
+repository-code: "https://github.com/gulzara3/ca-dfn"
+license: MIT
+version: 1.0.0
+date-released: "2026-11-03"
+keywords:
+  - food image recognition
+  - CNN-Transformer ensemble
+  - dynamic fusion
+  - model calibration
+  - knowledge distillation
